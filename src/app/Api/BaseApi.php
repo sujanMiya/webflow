@@ -12,7 +12,7 @@ class BaseApi extends AbstractApi
     {
         return 'https://api.webflow.com';
 	}
-        /**
+    /**
      * @return string
      */
     public function getPrefix(): string
